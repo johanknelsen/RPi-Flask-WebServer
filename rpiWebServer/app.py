@@ -156,7 +156,7 @@ def droplet(droplet):
 	s.enter(dropdelay,0.05, solenoid_open, kwargs={'a': 'drop 2 open'})
 	s.enter(dropclosed,.01, solenoid_closed, kwargs={'a': 'drop 2 closed'})
 	
-	s.enter(delay_amnt,0.3, shutter_triggered, kwargs={'a': 'shutter triggered'})
+	s.enter(delay_amnt,0.1, shutter_triggered, kwargs={'a': 'shutter triggered'})
 	s.enter(shutterclosed,0.01, shutter_reset, kwargs={'a': 'Shutter reset'})
 	
 	s.run()
