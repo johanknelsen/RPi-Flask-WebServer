@@ -34,9 +34,9 @@
 				<div class="col-md-12 p-3 mb-2 bg-info text-white" id="stylized">
 						<form action="/droplet" method="POST">
 							<label >Second Drop Delay</label><br>
-							<input type="number" name="btwndrops" step="0.1" min="5.0" max="15.0" value="{{ request.form['btwndrops'] }}"><br>
+							<input type="number" name="btwndrops" step="0.01" min="5.00" max="15.00" value="{{ request.form['btwndrops'] }}"><br>
 							<label >Shutter Delay</label><br>
-							<input type="number" name="shutterdelay" step="0.1" min="5.0" max="40.0" value="{{ request.form['shutterdelay'] }}"><br>
+							<input type="number" name="shutterdelay" step="0.01" min="5.00" max="40.00" value="{{ request.form['shutterdelay'] }}"><br>
 							
 							<input type="submit" value="Shutter Delay"  class="btn btn-primary btn-lg btn-block">
 							
