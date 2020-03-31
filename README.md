@@ -9,11 +9,4 @@ Current set-up is about a meter above the surface that I'm dropping drops into b
 As far as hardware it set-up similar to what David has described on his blog.  I did however buy a relay board from Amazon after horribly failing soldering together my own.
 
 
-![Bower.io: A Frontend Package Manager. logo](https://github.com/johanknelsen/RPi-Flask-WebServer/blob/master/Pictures/Annotation%202020-03-31%20115003.png)
-
-[https://github.com/johanknelsen/RPi-Flask-WebServer/blob/master/Pictures/Annotation%202020-03-31%20115003.png](#Controller Page)
-
-
-<p> 
-<img src=“https://github.com/johanknelsen/RPi-Flask-WebServer/blob/master/Pictures/Annotation%202020-03-31%20115003.png”>
-</p>
+![Web Interface Page](https://github.com/johanknelsen/RPi-Flask-WebServer/blob/master/Pictures/Annotation%202020-03-31%20115003.png)
