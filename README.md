@@ -9,4 +9,4 @@ Current set-up is about a meter above the surface that I'm dropping drops into b
 As far as hardware it set-up similar to what David has described on his blog.  I did however buy a relay board from Amazon after horribly failing soldering together my own.
 
 ![Web Interface Page](https://github.com/johanknelsen/RPi-Flask-WebServer/blob/master/Pictures/Annotation%202020-03-31%20115003.png)
-In the above image you can see that that the part in red box is the dynamic updatetable settings, and in the green box are the last setting used.  Below that there are button to manually trigger the GPIO's.
+In the above image you can see that that the part in red box is the dynamic updatetable settings, and in the green box are the last setting used.  Below that there are button to manually trigger the GPIO's.  Currently have just been using the flask development server to run the project.
